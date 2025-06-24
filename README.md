@@ -1,3 +1,27 @@
+Instalaltion steps
+_________________________
+
+Step 1:
+
+Install node js in your system
+
+step 2:
+
+Install npm varriables as follows
+
+npm install
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+
+Step 3
+
+npm start
+
+_________________________
+
+        redesigned By Akhil A R behalf of Horitio Tech Labs
+
+
 ### What's included
 
 Within the download you'll find the following directories and files:
