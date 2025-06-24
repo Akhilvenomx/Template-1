@@ -9,17 +9,17 @@ step 2:
 
 Install npm varriables as follows
 
-npm install
-npm install @mui/material @emotion/react @emotion/styled
-npm install @mui/material @mui/styled-engine-sc styled-components
+        npm install
+        npm install @mui/material @emotion/react @emotion/styled
+        npm install @mui/material @mui/styled-engine-sc styled-components
 
 Step 3
 
-npm start
+        npm start
 
 _________________________
 
-        redesigned By Akhil A R behalf of Horitio Tech Labs
+ redesigned By Akhil A R behalf of Horitio Tech Labs
 
 
 ### What's included
